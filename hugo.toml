@@ -1,2 +1,6 @@
 theme = "PaperMod"
 contentDir = "content"
+
+[params.social]
+twitter = "https://twitter.com/theerealhermann"
+github = "https://github.com/therealhermann"
