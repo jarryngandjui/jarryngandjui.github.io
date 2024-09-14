@@ -1,9 +1,0 @@
-baseURL = 'https://yourusername.github.io/'
-languageCode = 'en-us'
-title = 'TheRealHermann'
-theme = "PaperMod"
-contentDir = "content"
-
-[params.social]
-twitter = "https://twitter.com/theerealhermann"
-github = "https://github.com/therealhermann"
