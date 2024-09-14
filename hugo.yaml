@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Siddharth Dushantha
-  author: Siddharth Dushantha
+  title: TheRealHermann
+  author: Jarry Ngandjui
   DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -41,7 +41,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "`$ whoami`"
-    Content: "Security analyst who does pentesting, security research, and open source developement"
+    Content: "Swiss Army knife for coding—Frontend, Backend, Cloud, LLM, Security (tbd lol), well most challenges."
 
   socialIcons:
     - name: github
@@ -49,12 +49,12 @@ params:
     - name: twitter
       url: "https://twitter.com/theerealhermann"
 
-menu:
-  main:
-    - identifier: blog
-      name: Blog
-      url: /blog/
-      weight: 1
+# menu:
+#   main:
+#     - identifier: blog
+#       name: Blog
+#       url: /blog/
+#       weight: 1
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
