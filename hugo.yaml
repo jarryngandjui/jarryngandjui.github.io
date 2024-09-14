@@ -1,6 +1,6 @@
-baseURL: 'https://yourusername.github.io/'
-languageCode: 'en-us'
-title: 'TheRealHermann'
+baseURL: "https://yourusername.github.io/"
+languageCode: "en-us"
+title: "TheRealHermann"
 theme: "PaperMod"
 contentDir: "content"
 paginate: 5
@@ -23,8 +23,8 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: false 
-  ShowPostNavLinks: false 
+  ShowShareButtons: false
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   ShowWordCount: false
@@ -46,7 +46,7 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/therealhermann"
-    - name: twitter 
+    - name: twitter
       url: "https://twitter.com/theerealhermann"
 
 menu:
@@ -54,7 +54,7 @@ menu:
     - identifier: blog
       name: Blog
       url: /blog/
-      weight: 1 
+      weight: 1
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
@@ -66,7 +66,3 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
-
-[params.social]
-twitter = "https://twitter.com/theerealhermann"
-github = "https://github.com/therealhermann"
