@@ -41,7 +41,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "`$ whoami`"
-    Content: "Swiss Army knife for coding—Frontend, Backend, Cloud, LLM, Security (tbd lol), well most challenges."
+    Content: "Stories that compile, ideas that run. Swiss Army knife for coding—Frontend, Backend, Cloud, LLM, Security (tbd lol), well most challenges. Code. Laugh. Repeat. Not necessarily in that order."
 
   socialIcons:
     - name: github
