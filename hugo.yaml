@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: TheRealHermann
+  title: Jarry Ngandjui
   author: Jarry Ngandjui
   DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light
@@ -45,7 +45,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/therealhermann"
+      url: "https://github.com/jarryngandjui"
     - name: twitter
       url: "https://twitter.com/theerealhermann"
 
